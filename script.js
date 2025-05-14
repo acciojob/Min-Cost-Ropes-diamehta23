@@ -178,4 +178,3 @@ function mincost(arr) {
     return cost;
 }
 
-module.exports = mincost;
